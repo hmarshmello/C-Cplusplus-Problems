@@ -16,3 +16,14 @@ Problems that you will learn or asked in colleges and might help you with placem
    - [Ceasers](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/ceaser.c)
    - [Duplicate-Print](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/duplicateprint.c)
    
+### C++ Probs 
+   - [Kadane-Algo](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/KadaneAlgo.cpp)
+   - [Min-Num_Deletion](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/Min_Num_Deletion.cpp)
+   - [MochaDiana](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/MochaDiana.cpp)
+   - [Acces-Through-Arrays](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/access_through_array.cpp)
+   - [Arrange-Max](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/arrange_max.cpp)
+   - [Bubble-Sort](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/bubble_sort.cpp)
+   - [Insertion-Sort](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/insertion_sort.cpp)
+   - [Panagram](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/insertion_sort.cpp)
+   - [Quick-Sort](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/insertion_sort.cpp)
+   
