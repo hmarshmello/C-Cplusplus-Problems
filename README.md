@@ -8,3 +8,11 @@ Problems that you will learn or asked in colleges and might help you with placem
 ## 17 Problems
 ### C Probs
    - [BinaryToDecimal](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/BinaryToDecimal.c)
+   - [Mars-Expo](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/Mars_Expo.c)
+   - [Binary-Search](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/binary_search.c)
+   - [Linear-Search](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/linear_search.c)
+   - [Max-Min-Elements](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/max_min_elements.c)
+   - [Merge-Sort](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/mergesort.c)
+   - [Ceasers](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/ceaser.c)
+   - [Duplicate-Print](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/duplicateprint.c)
+   
