@@ -5,7 +5,7 @@
 Basic/Medium level of Problems in C/C++
 Problems that you will learn or asked in colleges and might help you with placements as some of them as always asked by many companies
 
-## 17 Problems
+## 21 Problems
 ### C Probs
    - [BinaryToDecimal](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/BinaryToDecimal.c)
    - [Mars-Expo](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/Mars_Expo.c)
@@ -15,7 +15,10 @@ Problems that you will learn or asked in colleges and might help you with placem
    - [Merge-Sort](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/mergesort.c)
    - [Ceasers](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/ceaser.c)
    - [Duplicate-Print](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/duplicateprint.c)
-   
+   - [Basic-LinkedList](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/BasicLinkedList.c)
+   - [Merging-Sorted-Arrays](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/Merging_Sorted_Arrays.c)
+   - [Number-Of-Elements](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/Merging_Sorted_Arrays.c)
+   - [Nested-Structure](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/nestedSTRUCT.c)
 ### C++ Probs 
    - [Kadane-Algo](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/KadaneAlgo.cpp)
    - [Min-Num_Deletion](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/Min_Num_Deletion.cpp)
