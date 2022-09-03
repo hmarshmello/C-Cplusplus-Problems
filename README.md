@@ -5,8 +5,11 @@
 Basic/Medium level of Problems in C/C++
 Problems that you will learn or asked in colleges and might help you with placements as some of them as always asked by many companies
 
-## 21 Problems
+## 24 Problems
 ### C Probs
+   - [Compare-Linked-List](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/Compare_Linked_Lists.c)
+   - [Delete-Duplicates-Linked-List](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/Delete_Duplicates_Linked_List.c)
+   - [Detect-Cycle-LL-Tortoise](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/Detect_Cycle_LL.c)
    - [BinaryToDecimal](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/BinaryToDecimal.c)
    - [Mars-Expo](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/Mars_Expo.c)
    - [Binary-Search](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/binary_search.c)
