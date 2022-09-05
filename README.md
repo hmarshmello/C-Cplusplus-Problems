@@ -5,7 +5,7 @@
 Basic/Medium level of Problems in C/C++
 Problems that you will learn or asked in colleges and might help you with placements as some of them as always asked by many companies
 
-## 24 Problems
+## 35 Problems
 ### C Probs
    - [Compare-Linked-List](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/Compare_Linked_Lists.c)
    - [Delete-Duplicates-Linked-List](https://github.com/hmarshmello/C-Cplusplus-Problems/blob/main/Delete_Duplicates_Linked_List.c)
