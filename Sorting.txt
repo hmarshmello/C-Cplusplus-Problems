@@ -1,0 +1,27 @@
+Sorting
+    Analysis For Criteria for searching algorithms
+        1. number of comparisons
+        2. number of swaps
+        3. adaptives
+        4. stable
+        5. extra memory
+    List of Sorting Techniques
+        1. Selection Sort
+        2. Bubble 
+        3. Insertions
+        UPPER 3 -> O(n^2)
+        4. Heap
+        5. Merge
+        6. Quick
+        7. Tree
+        UPPER 4 -> O(nlogn)
+        8. Shell
+        UPPER 1 -> O(n^(3/2))
+        9. Count Sort
+        10. Bucket Sort/Bin Sorting
+        11. Radix Sort 
+        UPPER 3 -> O(n)
+    Research Based Sorting  
+        1. 
+    
+    Q. Whether Bubble sort(Or any other sorting Technique) is STABLE?
