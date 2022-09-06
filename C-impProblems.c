@@ -8,3 +8,7 @@
 // 8.Lead an element in an array
 // 9.Find the missing and the repeated number(Microsoft)
 // 10.Grid unique path
+
+
+////Searching Algos
+//
