@@ -1,5 +1,7 @@
 #include <stdio.h>
+#include <stdlib.h>
 
+// For givem arrays
 
 int main(){
     int a1[6] = {1,2,3};

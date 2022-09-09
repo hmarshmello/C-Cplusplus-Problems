@@ -13,7 +13,8 @@
 #include <iostream>
 using namespace std;
 
-int books(vector<int> &A, int B) {
+
+int Solution::int books(vector<int> &A, int B) {
     int sum = 0 ;
     int mx = 0 ;
     int n = A.size() ;
